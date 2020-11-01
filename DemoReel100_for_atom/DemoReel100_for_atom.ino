@@ -1,4 +1,4 @@
-#include <FastLED.h>
+#include "src/FastLED/FastLED.h"
 
 FASTLED_USING_NAMESPACE
 

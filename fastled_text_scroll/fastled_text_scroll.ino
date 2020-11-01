@@ -1,5 +1,5 @@
-#include <FastLED.h>
-#include <FastLED_GFX.h>
+#include "src/FastLED/FastLED.h"
+#include "src/FastLED-GFX/FastLED_GFX.h"
 
 #define LED_PIN         27
 #define COLOR_ORDER     GRB

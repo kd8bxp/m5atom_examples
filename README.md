@@ -20,6 +20,10 @@ Like above you need to replace the glcdfont.c file with the one included here.
 Unfortuntally I couldn't get the "TomThumb" font to work with the FastLED GFX library.  
 FastLED appears to work better on this device, but the Adafruit Neopixel & GFX libraries provide better fonts support.  
 
+## Libraries
+
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
+ NOTE: Adafruit Libraries could not be used from the sketch directory. Sketches Compile from the libraries directory.  
 
 ## Contributing
 
